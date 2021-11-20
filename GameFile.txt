@@ -1,0 +1,45 @@
+
+Title: The Naughty Prisoner Escape
+
+	
+Everyone does something illegal once in your lifetime. Sometimes more than once. 
+And sometimes you get caught. You ended in prison... because you farted in near an officer's face. 
+Because you are frustrated your prison, you start a prison riot and try to leave jail but then get 
+caught by the same police that arrested you for farting in his presence. He tells you "If really 
+think you aren't guilty for this very offensive crime, I would like you to escape out of this 
+special prison cell. If you do, I will personally escort you jail. If you don't, you will be 
+locked in here for life. From looking at you, I know Darwin is right. CLANG. The door shuts behind 
+you. *insert evil laughter here* Don't worry I put common sense stuff for you. Good freaking luck. 
+You will need it because you can't even pour the water out of boot if the instructions were on 
+the heel. You've got one hour. Tick Tock"
+
+Games Ideas: 
+
+- Using controversial food topics, internet meme knowledge, riddles, and simple escape room tactics
+to solve this game. 
+
+- Just using things in past escape rooms that I have been to and use that to create an escape room. 
+
+- Try figuring out a series of riddles that will unlock multiple pieces of a puzzle.
+
+Walkthrough: 
+
+- The game will start off with controversial food topics. So I will ask them to find out that 
+pineapple will belong on pizza. It will be the password to the cookbook which will allow you to 
+get a pizza box. Then, after lifiting the pizza from the pizza box you will have a paper with
+the number 9 on it. (it will be for later).
+
+- Then they will use the time to unlock the leather bag (3-digit combo). It will contain a plus paper after opening 
+up the bag. 
+
+- Later you will open up a purse (4-digit combo) using the date on the clock. It will contain a ten paper.
+
+- Then, by opening up the expired bread you will find the expiration date which will unlock the blackboard
+which is a 6 digit combo. Then, it will show milk, cereal, spoon, and bowl. It will show the order 
+of how you are supposed to make cereal. You can use the milk and cereal and order command to see
+if the order is correct. Then, use the numbers to order them to open up the brick wall which will contain the equal sign. 
+
+- By putting all those pieces together you can see that you will create 9 + 10 = .  Referring to the vine, 
+the answer will be 21. But, you have to say it by writing the command "say 21". It will give you th final piece. 
+
+- Using the combine command you can put all these pieces together to magically get the platinum key and escape.
